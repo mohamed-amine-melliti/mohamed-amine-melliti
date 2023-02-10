@@ -2,7 +2,10 @@
 
 ```diff
 [leo@void ~]$ fetch
-@@im leo, trying to program something@@
-+ im from brazil
-! metal enjoyer
-# and i like to "rice" linux. <3
+@@im Mohamed Amine , trying to program something@@
++ im from Tunisia 🇹🇳 🇹🇳 🇹🇳
+! I like  1/-Full Stack Web Developement using Laravel/Vue.js
+          2/- Web Pentesing
+          3/- Web Security
+          
+# and i like to Kouskous <3 😋😋😋
